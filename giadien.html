@@ -5,26 +5,20 @@
     <title>tien dien</title>
 </head>
 <body>
+<h1>tien dien</h1>
+<form>
+   so dien moi: <input id="a" type="text"><br><br>
+   so dien cu: <input id="b" type="text">
+    <button type="button" onclick="check()">Check</button>
+</form>
+<p id="kq"></p>
 <script>
-let a = prompt('so dien tieu thu');
-let b = 1549;
-let c = 1600;
-let d = 1858;
-let e = 2340;
-if (a<50){
-    // tính số tiền điện nhỏ hơn 50;
-    alert(a*b);
-}else if (a<100){
-    //tính số tiền điện từ 50>99;
-    alert(a*c);
-}else if (a<200){
-    //tính số tiền điện từ 100>199;
-    alert(a*d);
-}else {
-    //tính số tiền điện từ 200>
-    alert(a*e);
-}
-
+    function check() {
+        let a = document.getElementById("a").value;
+        let b = document.getElementById("b").value;
+        let c = (a-b)*2500;
+        document.getElementById("kq").innerHTML= "so tien:" + c;
+    }
 </script>
 </body>
 </html>

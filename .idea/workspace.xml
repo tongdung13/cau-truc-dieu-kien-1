@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="409e2e05-43c6-49bf-b2a7-83d884f382f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/giadien.html" beforeDir="false" afterPath="$PROJECT_DIR$/giadien.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +49,23 @@
       <option name="presentableId" value="Default" />
       <updated>1602300602572</updated>
       <workItem from="1602300603713" duration="6796000" />
-      <workItem from="1602319826714" duration="1639000" />
+      <workItem from="1602319826714" duration="1923000" />
+      <workItem from="1602420603663" duration="646000" />
+      <workItem from="1602421279081" duration="799000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1602321757185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602321757185" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1602421049763">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1602421049763" />
   </component>
 </project>
